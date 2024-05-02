@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "510173248366",
+    "project_id": "timeboxspace-828e9",
+    "storage_bucket": "timeboxspace-828e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510173248366:android:6aa462743d31e8fd759f7f",
+        "android_client_info": {
+          "package_name": "id.timeboxspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510173248366-31lablkm6fag3d7fq60ahit8h93ikc3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdpS9ui7tmJYriWa75RKRUVEYLvoTbXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510173248366-31lablkm6fag3d7fq60ahit8h93ikc3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510173248366-9jkvjva90ic24p5henm3dd5bq90fn708.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.venturo.timebox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
